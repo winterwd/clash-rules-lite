@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,.cn,DIRECT
+  - DOMAIN-SUFFIX,dockerdocs.cn,DIRECT
+  - DOMAIN-SUFFIX,ruanyifeng.com,DIRECT
