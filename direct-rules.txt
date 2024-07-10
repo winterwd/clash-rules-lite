@@ -4,3 +4,5 @@ payload:
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,ruanyifeng.com
+  - DOMAIN-SUFFIX,dockerdocs.cn
